@@ -1,1 +1,2 @@
-# nauka-gita-klon
+# Witaj z GitHuba! ✏️
+ nauka-gita-klon
